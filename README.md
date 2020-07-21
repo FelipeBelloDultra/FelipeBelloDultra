@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **FelipeBelloDultra/FelipeBelloDultra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center"> Felipe Bello Dultra  </h2>
+
+**Estudante e entusiasta** da programação. <br>
+Com **foco** em NodeJS, ReactJS, React Native e Typescript.
