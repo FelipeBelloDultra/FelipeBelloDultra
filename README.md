@@ -1,7 +1,6 @@
 <h2 align="center">Olá, me chamo Felipe </h2>
 
 **Estudante e entusiasta** da programação. <br>
-Com **foco** em NodeJS, ReactJS, React Native e Typescript.
 
 Estou estudando:
  <br/>
