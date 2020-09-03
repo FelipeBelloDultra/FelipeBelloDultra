@@ -4,10 +4,10 @@
 
 Estou estudando:
  <br/>
-* 🖥 ReactJS <br/>
-* 📱 React Native <br/>
-* 👨‍💻 NodeJS <br/>
-* ✏ Typescript <br/>
+* 🖥  ReactJS <br/>
+* 📱  React Native <br/>
+* 👨‍💻  NodeJS <br/>
+* ✏  Typescript <br/>
 
 
 Contato:
