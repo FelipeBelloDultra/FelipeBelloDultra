@@ -1,11 +1,9 @@
-<h2 align="center">Olá, seja bem-vindo! </h2>
+<h2 align="center">Olá, bem-vindo! </h2>
 
 **Estudante e entusiasta** de tecnologia. <br>
 
 Atualmente eu tenho 18 anos e trabalho com desenvolvimento web frontend.
 Tenho foco em web e mobile utilizando todo ecossistema Javascript/Typescript (NodeJS, ReactJS, React Native).
-
-
 
  <br />
 
