@@ -9,4 +9,3 @@ Tenho foco em web e mobile utilizando todo ecossistema Javascript/Typescript (No
 
 [![Gmail Badge](https://img.shields.io/badge/-felipe_bello_dultra@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe_bello_dultra@hotmail.com)](mailto:felipe_bello_dultra@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeBelloDultra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FelipeBelloDultra/)](https://www.linkedin.com/in/FelipeBelloDultra/) 
-
