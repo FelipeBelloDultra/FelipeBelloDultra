@@ -2,7 +2,7 @@
 
 <p>
  <div align="center">
-  I'm a Pleno Frontend Software Developer, and I've been studying programming for over 6 years, learning more every day.
+  I'm a Mid-level Frontend Software Developer, and I've been studying programming for over 6 years, learning more every day.
  </div>
 </p>
 
